@@ -16,7 +16,7 @@ function Pagination() {
                     <Arrow className="dsmovie-flip-horizontal" />
                 </button>
             </div>
-        </div>
+        </div> 
 
 
     );
